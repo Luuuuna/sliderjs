@@ -182,6 +182,7 @@ p {
     white-space: nowrap;
     text-transform: uppercase;
     font-family: 'Yeseva One';
+    cursor: pointer;
 }
 
 .slider__title:hover {
